@@ -1,7 +1,7 @@
 
 # Technocrats Servcies Portfolio Website
 
-Technocrats Servcies Portfolio Website using HTML, Boostrap and Javascript.
+Technocrats Services Portfolio Website using HTML, Boostrap, and Javascript.
 
 ## Demo
 
